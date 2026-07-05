@@ -1,0 +1,20 @@
+# Generated artifacts
+__pycache__/
+*.pyc
+
+# Python env
+.virtualenvs/
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
